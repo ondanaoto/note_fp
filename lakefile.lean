@@ -9,4 +9,4 @@ lean_lib «Note» where
 
 @[default_target]
 lean_exe «note» where
-  root := `Main
+  root := `Note
